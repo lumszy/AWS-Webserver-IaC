@@ -1,0 +1,3 @@
+This is just a simple Webserver deployed on AWS Cloud
+written in  Terraform. It deploys two(2) EC2 resources
+in 2 diff AZs, ELB, and VPC. 
